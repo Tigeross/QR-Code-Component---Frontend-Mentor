@@ -21,8 +21,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Tigeross/QR-Code-Component---Frontend-Mentor)
-- Live Site URL: [Add live site URL here](https://medium.com/frontend-mentor/a-complete-guide-to-submitting-solutions-on-frontend-mentor-ac6384162248)
+- Solution URL: [https://github.com/Tigeross/QR-Code-Component---Frontend-Mentor](https://github.com/Tigeross/QR-Code-Component---Frontend-Mentor)
+- Live Site URL: [https://tigeross.github.io/QR-Code-Component---Frontend-Mentor/](https://tigeross.github.io/QR-Code-Component---Frontend-Mentor/)
 
 ## My process
 
