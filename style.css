@@ -44,7 +44,7 @@ img {
     border-radius: 12px;
 }
 
-main p {
+.text {
     font-family: 'Outfit', sans-serif;
     text-align: center;
 }
